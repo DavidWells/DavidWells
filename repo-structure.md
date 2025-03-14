@@ -2,16 +2,16 @@
 
 My repos are (mostly) organized by the following prefixes:
 
-| prefix | description | link |
+| Category | description | link |
 |--------|-------------|------|
-| [scratch](#scratch-name) | Random experiments and testing | [#scratch-name](#scratch-name) |
-| [spike](#spike-name) | Quick experiments to evaluate specific tech | [#spike-name](#spike-name) |
-| [demo](#demo-name) | Small projects built for demonstration | [#demo-name](#demo-name) |
-| [prototype](#prototype-name) | Early versions of potential products | [#prototype-name](#prototype-name) |
-| [talk](#talk-name) | Conference and presentation materials | [#talk-name](#talk-name) |
-| [template](#template-name) | Starter code and boilerplates | [#template-name](#template-name) |
-| [tools](#tools-name) | Production-ready utility tools | [#tools-name](#tools-name) |
-| [site](#site-name) | Deployed website codebases | [#site-name](#site-name) |
+| [scratch](#scratch-name) | Random experiments and testing | [See repos](https://github.com/DavidWells?tab=repositories&q=scratch) |
+| [spike](#spike-name) | Quick experiments to evaluate specific tech | [See repos](https://github.com/DavidWells?tab=repositories&q=spike) |
+| [demo](#demo-name) | Small projects built for demonstration | [See repos](https://github.com/DavidWells?tab=repositories&q=demo) |
+| [prototype](#prototype-name) | Early versions of potential products | [See repos](https://github.com/DavidWells?tab=repositories&q=prototype) |
+| [talk](#talk-name) | Conference and presentation materials | [See repos](https://github.com/DavidWells?tab=repositories&q=talk) |
+| [template](#template-name) | Starter code and boilerplates | [See repos](https://github.com/DavidWells?tab=repositories&q=template) |
+| [tools](#tools-name) | Production-ready utility tools | [See repos](https://github.com/DavidWells?tab=repositories&q=tools) |
+| [site](#site-name) | Deployed website codebases | [See repos](https://github.com/DavidWells?tab=repositories&q=site) |
 
 Full projects, libraries, or packages might named without these prefixes.
 
