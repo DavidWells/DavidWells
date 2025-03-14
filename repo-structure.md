@@ -2,14 +2,16 @@
 
 My repos are (mostly) organized by the following prefixes:
 
-* [scratch](#scratch-name) - Random experiments and testing
-* [spike](#spike-name) - Quick experiments to evaluate specific tech
-* [demo](#demo-name) - Small projects built for demonstration
-* [prototype](#prototype-name) - Early versions of potential products
-* [talk](#talk-name) - Conference and presentation materials
-* [template](#template-name) - Starter code and boilerplates
-* [tools](#tools-name) - Production-ready utility tools
-* [site](#site-name) - Deployed website codebases
+| prefix | description | link |
+|--------|-------------|------|
+| [scratch](#scratch-name) | Random experiments and testing | [#scratch-name](#scratch-name) |
+| [spike](#spike-name) | Quick experiments to evaluate specific tech | [#spike-name](#spike-name) |
+| [demo](#demo-name) | Small projects built for demonstration | [#demo-name](#demo-name) |
+| [prototype](#prototype-name) | Early versions of potential products | [#prototype-name](#prototype-name) |
+| [talk](#talk-name) | Conference and presentation materials | [#talk-name](#talk-name) |
+| [template](#template-name) | Starter code and boilerplates | [#template-name](#template-name) |
+| [tools](#tools-name) | Production-ready utility tools | [#tools-name](#tools-name) |
+| [site](#site-name) | Deployed website codebases | [#site-name](#site-name) |
 
 Full projects, libraries, or packages might named without these prefixes.
 
