@@ -1,4 +1,4 @@
-# Repository Naming convention
+# Repository Naming Convention
 
 My repos are (mostly) organized by the following prefixes:
 
@@ -6,7 +6,7 @@ My repos are (mostly) organized by the following prefixes:
 |--------|-------------|------|
 | [scratch](#scratch-name) | Random experiments and testing | [See repos](https://github.com/DavidWells?tab=repositories&q=scratch) |
 | [spike](#spike-name) | Quick experiments to evaluate specific tech | [See repos](https://github.com/DavidWells?tab=repositories&q=spike) |
-| [demo](#demo-name) | Small projects built for demonstration | [See repos](https://github.com/DavidWells?tab=repositories&q=demo) |
+| [demo](#demo-name) | Small projects built for demonstration | [See repos](https://github.com/DavidWells?tab=repositories&q=demo+OR+examplee) |
 | [prototype](#prototype-name) | Early versions of potential products | [See repos](https://github.com/DavidWells?tab=repositories&q=prototype) |
 | [talk](#talk-name) | Conference and presentation materials | [See repos](https://github.com/DavidWells?tab=repositories&q=talk) |
 | [template](#template-name) | Starter code and boilerplates | [See repos](https://github.com/DavidWells?tab=repositories&q=template) |
