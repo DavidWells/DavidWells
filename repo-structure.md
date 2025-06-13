@@ -12,6 +12,7 @@ My repos are (mostly) organized by the following prefixes:
 | [template](#template-name) | Starter code and boilerplates | [See repos](https://github.com/DavidWells?tab=repositories&q=template) |
 | [tools](#tools-name) | Production-ready utility tools | [See repos](https://github.com/DavidWells?tab=repositories&q=tools) |
 | [site](#site-name) | Deployed website codebases | [See repos](https://github.com/DavidWells?tab=repositories&q=site) |
+| [project](#project) | Larger projects & monorepos | [See repos](https://github.com/DavidWells?tab=repositories&q=project) |
 
 Full projects, libraries, or packages might named without these prefixes.
 
@@ -61,5 +62,11 @@ Full projects, libraries, or packages might named without these prefixes.
 ## `site-{name}`
 - Production websites and apps that are deployed and maintained
 - Contains complete website codebases
-- Includes both frontend and associated backend code
+- Includes both frontend and associated backend code for the site
 - Example: `site-company-blog` for a deployed company blog
+
+## `project-{name}`
+- Production products, apps and monorepos
+- Contains complete codebases usually frontend and backend and packages related to the project
+- Includes both frontend and associated backend code
+- Example: `project-hashtag-scout` for a deployed company blog
